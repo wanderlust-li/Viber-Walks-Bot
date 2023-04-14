@@ -6,7 +6,5 @@
 To run this bot locally, you need to have the following software installed on your system:
 
 .NET 6 SDK
-
 ngrok
-
 Entity Framework Core
