@@ -5,8 +5,8 @@ This is a Viber bot created using ASP.NET Core WebApi. The bot provides walking 
 ## Prerequisites
 To run this bot locally, you need to have the following software installed on your system:
 
-- .NET 6 SDK
-- Ngrok
+- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [Ngrok](https://ngrok.com/)
 
 ## Usage
 1. Clone the repository and open it in Visual Studio or another code editor.
@@ -28,6 +28,6 @@ The procedure for calculating the walking tours includes the following steps:
 5. Create a Viber bot that displays the total information and a top 10 list of walking tours by distance covered.
 
 ## Built With
-- ASP.NET Core WebApi
-- Entity Framework Core
-- Ngrok
+- [ASP.NET Core WebApi](https://dotnet.microsoft.com/apps/aspnet)
+- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
+- [Ngrok](https://ngrok.com/)
