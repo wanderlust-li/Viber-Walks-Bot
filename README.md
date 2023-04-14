@@ -1,4 +1,4 @@
-# Walking Tracker Bot
+# Walking Bot
 
 This is a Viber bot created using ASP.NET Core WebApi. The bot provides walking tour suggestions to users based on their location using data stored in a MSSQL database. The procedure for calculating the walking tours is also included in the project.
 
